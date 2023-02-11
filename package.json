@@ -1,0 +1,27 @@
+{
+  "name": "hyper-ghost",
+  "version": "1.0.0",
+  "description": "Hyper theme based on Ghost in the Shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenhu/hyper-ghost.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "theme",
+    "terminal",
+    "ghost",
+    "gits"
+  ],
+  "author": "Stephen Hu <stephen@madsportslab.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenhu/hyper-ghost/issues"
+  },
+  "homepage": "https://github.com/stephenhu/hyper-ghost#readme"
+}

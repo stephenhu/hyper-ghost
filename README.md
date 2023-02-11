@@ -1,5 +1,5 @@
 # hyper-ghost
-hyper terminal plugin - ghost in the shell theme
+hyper terminal theme - ghost in the shell
 
 ## palette
 
