@@ -8,7 +8,7 @@ const selectionColor = "#008fb3";
 // font
 
 const fontSize = "12";
-const fontFamily = "Open Sans";
+const fontFamily = "monaco";
 const fontWeight = "normal";
 const fontWeightBold = "Bold";
 
