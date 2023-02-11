@@ -8,7 +8,6 @@ const selectionColor = "#008fb3";
 // font
 
 const fontSize = "12";
-const fontFamily = "cursive";
 const fontWeight = "normal";
 const fontWeightBold = "Bold";
 
@@ -47,7 +46,6 @@ exports.decorateConfig = (config) => {
     borderColor,
     selectionColor,
     fontSize,
-    fontFamily,
     fontWeight,
     fontWeightBold,
     cursorColor,
