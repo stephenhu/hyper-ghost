@@ -2,7 +2,7 @@
 
 const backgroundColor = "#00182b";
 const foregroundColor = "#00ffff";
-const borderColor = "#017bda";
+const borderColor = "#00182b";
 const selectionColor = "#008fb3";
 
 // font
@@ -23,21 +23,21 @@ const padding = "10px 15px";
 
 const colors = {
   black: "#000000",
-  red: "#ff0000",
-  green: "#00ff00",
-  yellow: "#ffff00",
-  blue: "#0000dd",
-  magenta: "#ff6666",
-  cyan: "#6666dd",
-  white: "#ffffff",
-  lightBlack: "#333333",
-  lightRed: "#dd0000",
-  lightGreen: "#00dd00",
-  lightYellow: "#dddd00",
-  lightBlue: "#0000dd",
-  lightMagenta: "#dd1111",
-  lightCyan: "#1111dd",
-  lightWhite: "#dddddd",
+  red: "#ff5370",
+  green: "#c3e88d",
+  yellow: "#ffcb6b",
+  blue: "#82aaff",
+  magenta: "#c792ea",
+  cyan: "#80cbc4",
+  white: "#d0d0d0",
+  lightBlack: "#5c7e8c",
+  lightRed: "#f77669",
+  lightGreen: "#c3e88d",
+  lightYellow: "#ffeb95",
+  lightBlue: "#b2ccd6",
+  lightMagenta: "#ab92ea",
+  lightCyan: "#80cbc4",
+  lightWhite: "#eeffff",
 };
 
 exports.decorateConfig = (config) => {
@@ -55,6 +55,7 @@ exports.decorateConfig = (config) => {
     cursorShape,
     cursorBlink,
     padding,
+    colors,
     opacity: 0.85,
   });
 }
