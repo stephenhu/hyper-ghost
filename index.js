@@ -8,7 +8,7 @@ const selectionColor = "#008fb3";
 // font
 
 const fontSize = "12";
-const fontFamily = "menlo";
+const fontFamily = "sans-serif";
 const fontWeight = "normal";
 const fontWeightBold = "Bold";
 

@@ -1,6 +1,6 @@
 {
   "name": "hyper-ghost",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Hyper theme based on Ghost in the Shell",
   "main": "index.js",
   "scripts": {
